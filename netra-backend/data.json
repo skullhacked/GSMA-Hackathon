@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5,
+    "name": "Arjun Mehra",
+    "lat": 28.6129,
+    "lng": 77.2295,
+    "message": "Major traffic collision on C-Hexagon near the main India Gate circle. Multiple vehicles involved, I am trapped in my car.",
+    "timestamp": "2025-09-27T23:40:10Z"
+  },
+  {
+    "id": 6,
+    "name": "Sana Ali",
+    "lat": 28.6145,
+    "lng": 77.2270,
+    "message": "A family member has collapsed near the Children's Park, possibly heatstroke. Needs urgent medical attention.",
+    "timestamp": "2025-09-27T23:42:30Z"
+  },
+  {
+    "id": 7,
+    "name": "Vikram Rathore",
+    "lat": 28.6108,
+    "lng": 77.2310,
+    "message": "Suspicious unattended bag found near the boating club on the east side of India Gate. Authorities need to be alerted.",
+    "timestamp": "2025-09-27T23:44:55Z"
+  },
+  {
+    "id": 8,
+    "name": "Neha Sharma",
+    "lat": 28.6120,
+    "lng": 77.2340,
+    "message": "A large tree branch has fallen on the road on Shahjahan Road, blocking traffic and narrowly missing pedestrians. Help needed to clear it.",
+    "timestamp": "2025-09-27T23:45:20Z"
+  }
+]
